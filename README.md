@@ -31,8 +31,8 @@ version: '3'
 services:
   dsmrproxy:
     image: mikedingjan/rpi-ser2net-dsmr
-  devices:
-    - "/dev/ttyUSB0:/dev/ttyUSB0"
-  ports:
-    - "3333:3333"
+    devices:
+      - "/dev/ttyUSB0:/dev/ttyUSB0"
+    ports:
+      - "3333:3333"
 ```
