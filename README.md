@@ -1,7 +1,7 @@
 RPI Ser2net DSMR
 ================
 
-[Docker Pulls](https://img.shields.io/docker/pulls/mikedingjan/rpi-ser2net-dsmr.svg)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mikedingjan/rpi-ser2net-dsmr.svg)](https://cloud.docker.com/u/mikedingjan/repository/docker/mikedingjan/rpi-ser2net-dsmr)
 
 Serial to network proxy tailored for DSMR (Dutch Smart Meter) and Raspberry Pi,
 using the ser2net package to sent the DSMR messages over your network via a TCP
